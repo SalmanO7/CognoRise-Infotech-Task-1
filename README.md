@@ -21,6 +21,5 @@ Welcome to my portfolio website! This project showcases my work, skills, and pro
 To view or modify the portfolio locally, follow these steps:
 
 ### Prerequisites
-
 - Web browser (Chrome, Firefox, etc.)
 - Basic knowledge of HTML, CSS, and JavaScript.
