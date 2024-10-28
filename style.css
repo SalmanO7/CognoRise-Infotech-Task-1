@@ -641,31 +641,19 @@ section {
         align-items: center;
     }
 
-    .footer ul li {
-        margin: 10px 0;
-    }
+.footer ul li {
+    display: inline-block;
+    padding: 0 15px;
 }
 
-@media (max-width: 480px) {
-    .footer {
-        padding: 15px;
-    }
-
-    .footer .socialMedia a {
-        font-size: 18px;
-        /* Further reduce icon size for very small screens */
-        margin: 0 5px;
-    }
-
-    .footer ul li {
-        margin: 8px 0;
-    }
-
-    .footer .copyright {
-        font-size: 12px;
-        /* Adjust text size */
-    }
+.footer p {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
 }
+
+
 
 
 
@@ -814,7 +802,9 @@ section {
     .head {
         padding: 1rem;
     }
-
+    .heading{
+        text-align: center;
+    }
     .logo {
         font-size: 14px;
     }
